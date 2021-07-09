@@ -1,0 +1,16 @@
+C:\Users\racha\source\repos\Stamp Duty Calculator\Stamp Duty Calculator\bin\Debug\net5.0\StampDutyCalculator.exe
+C:\Users\racha\source\repos\Stamp Duty Calculator\Stamp Duty Calculator\bin\Debug\net5.0\StampDutyCalculator.deps.json
+C:\Users\racha\source\repos\Stamp Duty Calculator\Stamp Duty Calculator\bin\Debug\net5.0\StampDutyCalculator.runtimeconfig.json
+C:\Users\racha\source\repos\Stamp Duty Calculator\Stamp Duty Calculator\bin\Debug\net5.0\StampDutyCalculator.runtimeconfig.dev.json
+C:\Users\racha\source\repos\Stamp Duty Calculator\Stamp Duty Calculator\bin\Debug\net5.0\StampDutyCalculator.dll
+C:\Users\racha\source\repos\Stamp Duty Calculator\Stamp Duty Calculator\bin\Debug\net5.0\ref\StampDutyCalculator.dll
+C:\Users\racha\source\repos\Stamp Duty Calculator\Stamp Duty Calculator\bin\Debug\net5.0\StampDutyCalculator.pdb
+C:\Users\racha\source\repos\Stamp Duty Calculator\Stamp Duty Calculator\obj\Debug\net5.0\StampDutyCalculator.csproj.AssemblyReference.cache
+C:\Users\racha\source\repos\Stamp Duty Calculator\Stamp Duty Calculator\obj\Debug\net5.0\StampDutyCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\racha\source\repos\Stamp Duty Calculator\Stamp Duty Calculator\obj\Debug\net5.0\StampDutyCalculator.AssemblyInfoInputs.cache
+C:\Users\racha\source\repos\Stamp Duty Calculator\Stamp Duty Calculator\obj\Debug\net5.0\StampDutyCalculator.AssemblyInfo.cs
+C:\Users\racha\source\repos\Stamp Duty Calculator\Stamp Duty Calculator\obj\Debug\net5.0\StampDutyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\racha\source\repos\Stamp Duty Calculator\Stamp Duty Calculator\obj\Debug\net5.0\StampDutyCalculator.dll
+C:\Users\racha\source\repos\Stamp Duty Calculator\Stamp Duty Calculator\obj\Debug\net5.0\ref\StampDutyCalculator.dll
+C:\Users\racha\source\repos\Stamp Duty Calculator\Stamp Duty Calculator\obj\Debug\net5.0\StampDutyCalculator.pdb
+C:\Users\racha\source\repos\Stamp Duty Calculator\Stamp Duty Calculator\obj\Debug\net5.0\StampDutyCalculator.genruntimeconfig.cache

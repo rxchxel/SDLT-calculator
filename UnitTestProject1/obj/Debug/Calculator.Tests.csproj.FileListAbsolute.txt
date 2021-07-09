@@ -1,0 +1,17 @@
+C:\Users\racha\source\repos\Stamp Duty Calculator\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\racha\source\repos\Stamp Duty Calculator\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\racha\source\repos\Stamp Duty Calculator\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\racha\source\repos\Stamp Duty Calculator\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\racha\source\repos\Stamp Duty Calculator\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\racha\source\repos\Stamp Duty Calculator\UnitTestProject1\bin\Debug\Calculator.exe
+C:\Users\racha\source\repos\Stamp Duty Calculator\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\racha\source\repos\Stamp Duty Calculator\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\racha\source\repos\Stamp Duty Calculator\UnitTestProject1\bin\Debug\Calculator.pdb
+C:\Users\racha\source\repos\Stamp Duty Calculator\UnitTestProject1\bin\Debug\Calculator.exe.config
+C:\Users\racha\source\repos\Stamp Duty Calculator\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\racha\source\repos\Stamp Duty Calculator\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\racha\source\repos\Stamp Duty Calculator\UnitTestProject1\obj\Debug\Calculator.Tests.csproj.AssemblyReference.cache
+C:\Users\racha\source\repos\Stamp Duty Calculator\UnitTestProject1\obj\Debug\Calculator.Tests.csproj.CoreCompileInputs.cache
+C:\Users\racha\source\repos\Stamp Duty Calculator\UnitTestProject1\obj\Debug\Calculator.Tests.csproj.CopyComplete
+C:\Users\racha\source\repos\Stamp Duty Calculator\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\racha\source\repos\Stamp Duty Calculator\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

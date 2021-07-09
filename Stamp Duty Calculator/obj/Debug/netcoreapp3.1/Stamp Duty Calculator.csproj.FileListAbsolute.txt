@@ -1,0 +1,13 @@
+C:\Users\racha\source\repos\Stamp Duty Calculator\Stamp Duty Calculator\bin\Debug\netcoreapp3.1\Stamp Duty Calculator.exe
+C:\Users\racha\source\repos\Stamp Duty Calculator\Stamp Duty Calculator\bin\Debug\netcoreapp3.1\Stamp Duty Calculator.deps.json
+C:\Users\racha\source\repos\Stamp Duty Calculator\Stamp Duty Calculator\bin\Debug\netcoreapp3.1\Stamp Duty Calculator.runtimeconfig.json
+C:\Users\racha\source\repos\Stamp Duty Calculator\Stamp Duty Calculator\bin\Debug\netcoreapp3.1\Stamp Duty Calculator.runtimeconfig.dev.json
+C:\Users\racha\source\repos\Stamp Duty Calculator\Stamp Duty Calculator\bin\Debug\netcoreapp3.1\Stamp Duty Calculator.dll
+C:\Users\racha\source\repos\Stamp Duty Calculator\Stamp Duty Calculator\bin\Debug\netcoreapp3.1\Stamp Duty Calculator.pdb
+C:\Users\racha\source\repos\Stamp Duty Calculator\Stamp Duty Calculator\obj\Debug\netcoreapp3.1\Stamp Duty Calculator.csproj.AssemblyReference.cache
+C:\Users\racha\source\repos\Stamp Duty Calculator\Stamp Duty Calculator\obj\Debug\netcoreapp3.1\Stamp Duty Calculator.AssemblyInfoInputs.cache
+C:\Users\racha\source\repos\Stamp Duty Calculator\Stamp Duty Calculator\obj\Debug\netcoreapp3.1\Stamp Duty Calculator.AssemblyInfo.cs
+C:\Users\racha\source\repos\Stamp Duty Calculator\Stamp Duty Calculator\obj\Debug\netcoreapp3.1\Stamp Duty Calculator.csproj.CoreCompileInputs.cache
+C:\Users\racha\source\repos\Stamp Duty Calculator\Stamp Duty Calculator\obj\Debug\netcoreapp3.1\Stamp Duty Calculator.dll
+C:\Users\racha\source\repos\Stamp Duty Calculator\Stamp Duty Calculator\obj\Debug\netcoreapp3.1\Stamp Duty Calculator.pdb
+C:\Users\racha\source\repos\Stamp Duty Calculator\Stamp Duty Calculator\obj\Debug\netcoreapp3.1\Stamp Duty Calculator.genruntimeconfig.cache
